@@ -1,0 +1,7 @@
+zone="" 
+project=""
+region=""
+tag=""
+boot_os="" 
+machine_type="" 
+network=""
